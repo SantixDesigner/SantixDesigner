@@ -4,4 +4,4 @@
 
 <center><img src="./otrapalcv.png" alt="Foto CV" height="200" width="200" align="center"/></center>
 
-<h2>Desarrollador Web Full Stack && Técnico en Informática</h2>
+<h2>Desarrollador Web Full Stack && Técnico en Informática <img src="./imagen-react.jpeg" height="20" width="20"/></h2>
