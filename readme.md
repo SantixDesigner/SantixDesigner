@@ -10,7 +10,7 @@
 
 <p>Me apasiona el desarrollo de sistemas informáticos y la implementación de aplicaciones eficientes para optimizar tareas. Disfruto aprender y mantenerme al día con las tendencias crecientes en el mercado.</p>
 
-<h2><b>🛠️ Tecnologías y Herramientas</b</h2>
+<h2><b>🛠️ Tecnologías y Herramientas</b></h2>
 <ul>
 <li>Lenguajes de Programación: JavaScript, HTML, CSS</li>
 <li>Frameworks y Librerías: React, Node.js, Express</li>
