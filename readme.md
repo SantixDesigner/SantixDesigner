@@ -12,7 +12,7 @@
 
 <h2><b>🛠️ Tecnologías y Herramientas</b></h2>
 <ul>
-<li>Lenguajes de Programación: JavaScript, HTML, CSS</li>
+<li>Lenguajes de Programación: JavaScript</li>
 <li>Frameworks y Librerías: React, Node.js, Express</li>
 <li>Bases de Datos: MongoDB, MySQL</li>
 <li>Control de Versiones: Git, GitHub</li>
